@@ -1,2 +1,3 @@
 # golang-api-with-gin
-#a simple golang api with gin framword including token authorization
+a simple golang api with gin framwork including token authorization
+using mysql with gorm to store the data
